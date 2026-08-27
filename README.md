@@ -22,14 +22,31 @@ I’m particularly interested in **software development, artificial intelligence
 
 > **Learn. Build. Improve. Repeat.**
 
----
-
 ## 🛠️ Technologies & Tools
 
+### 🌐 Web Development
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,dart,firebase,mysql,cs" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="50" />
 </p>
 
+### 📱 Mobile Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" height="50" />
+</p>
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="50" />
+</p>
+
+### 🗄️ Database & Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" height="50" />
+</p>
 
 ---
 
@@ -80,22 +97,7 @@ I’m particularly interested in **software development, artificial intelligence
 * 🤝 Collaborate on interesting technology projects
 * 💼 Build a strong professional software portfolio
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hirasarfraz902-ctrl&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirasarfraz902-ctrl&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hirasarfraz902-ctrl&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
