@@ -1,4 +1,4 @@
-<div align="center"> <img src="./profile-avatar.jpg" width="160" height="160" style="border-radius: 50%;" alt="Hira Sarfraz" />
+
 Hi, I'm Hira Sarfraz 👋
 Aspiring Developer · AI Enthusiast
 
