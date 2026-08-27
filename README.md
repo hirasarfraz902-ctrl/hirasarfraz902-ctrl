@@ -45,7 +45,7 @@ I’m particularly interested in **software development, artificial intelligence
 
 🧰 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" height="45" alt="Tools and platforms" /> <br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,andriodstudio" height="45" alt="Tools and platforms" /> <br/>
 
 
 
